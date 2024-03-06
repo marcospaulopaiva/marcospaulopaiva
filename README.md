@@ -1,7 +1,6 @@
 
 
 ## Olá! Eu sou o Marcos Paulo
-![](https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif")
  <div>
   <a href="https://github.com/marcospaulopaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaulopaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

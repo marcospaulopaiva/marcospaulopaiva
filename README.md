@@ -1,17 +1,17 @@
 <p align="center">
-<h4> Conheça o Marcos Paulo, um programador destemido e fã de filmes de ação dos anos 80. 
+<h4> Olá, sou Marcos Paulo, um programador destemido e fã de filmes de ação dos anos 80. 
 adora combinar seu amor pela programação com sua paixão por filmes de ação de uma maneira única.
 </h4>
 <img align="center" height="200" width="400" src="./imgs/gearing_up.gif">
 </p>
 
 <p align="center">
-<h4> Ele passa o dia escrevendo códigos como se fosse uma missão secreta, mas às vezes acaba "explodindo" tudo com um simples erro de sintaxe. </h4>
+<h4> Eu passa o dia escrevendo códigos como se fosse uma missão secreta, mas às vezes acaba "explodindo" tudo com um simples erro de sintaxe. </h4>
 <img align="center" height="200" width="400" src="./imgs/blowing_up.gif">
 </p>
 
 <p align="center">
-<h4> No final, ele acredita que tudo vai dar certo, ou talvez não... mas o importante é que a aventura continua. </h4>
+<h4> No final, eu acredita que tudo vai dar certo, ou talvez não... mas o importante é que a aventura continua. </h4>
 <img align="center" height="240" width="400" src="./imgs/suspicious.webp">
 </p>
 

@@ -1,6 +1,6 @@
 <p align="center">
 <h4> Olá, sou Marcos Paulo, um programador destemido e fã de filmes de ação dos anos 80. 
-adora combinar seu amor pela programação com sua paixão por filmes de ação de uma maneira única.
+adora combinar meu amor pela programação com minha paixão por filmes de ação de uma maneira única.
 </h4>
 <img align="center" height="200" width="400" src="./imgs/gearing_up.gif">
 </p>

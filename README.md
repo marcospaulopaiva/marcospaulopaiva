@@ -1,5 +1,5 @@
-<p align="center">
-<h4> Olá, sou Marcos Paulo, um programador destemido e fã de filmes de ação dos anos 80. 
+<!-- <p align="center">
+<h4> Olá, sou Marcos Paulo, um programador destemido e fã de filmes de ação dos anos 80.
 adoro combinar meu amor pela programação com minha paixão por filmes de ação de uma maneira única.
 </h4>
 <img align="center" height="200" width="400" src="./imgs/gearing_up.gif">
@@ -13,15 +13,18 @@ adoro combinar meu amor pela programação com minha paixão por filmes de açã
 <p align="center">
 <h4> No final, eu acredito que tudo vai dar certo, ou talvez não... mas o importante é que a aventura continua. </h4>
 <img align="center" height="240" width="400" src="./imgs/suspicious.webp">
-</p>
+</p> -->
 
 </br>
 
-## Ferramentas e Tecnologias
+### Olá, meu nome é Marcos Paulo.
 
- <div>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulopaiva&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="left">
+<a href="https://github.com/marcospaulopaiva">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulopaiva&layout=compact&langs_count=9&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaulopaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 ### Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 

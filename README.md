@@ -13,7 +13,7 @@ adoro combinar meu amor pela programação com minha paixão por filmes de açã
 <p align="center">
 <h4> No final, eu acredito que tudo vai dar certo, ou talvez não... mas o importante é que a aventura continua. </h4>
 <img align="center" height="240" width="400" src="./imgs/suspicious.webp">
-</p> -->
+</p> 
 
 </br>
 
@@ -123,7 +123,7 @@ adoro combinar meu amor pela programação com minha paixão por filmes de açã
  
  
 </div>
-
+-->
 <!--
 **marcospaulopaiva/marcospaulopaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

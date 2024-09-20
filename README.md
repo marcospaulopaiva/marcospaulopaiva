@@ -1,28 +1,9 @@
-<!-- <p align="center">
-<h4> Olá, sou Marcos Paulo, um programador destemido e fã de filmes de ação dos anos 80.
-adoro combinar meu amor pela programação com minha paixão por filmes de ação de uma maneira única.
-</h4>
-<img align="center" height="200" width="400" src="./imgs/gearing_up.gif">
-</p>
-
-<p align="center">
-<h4> Eu passo o dia escrevendo códigos como se fosse uma missão secreta, mas às vezes acabo "explodindo" tudo com um simples erro de sintaxe. </h4>
-<img align="center" height="200" width="400" src="./imgs/blowing_up.gif">
-</p>
-
-<p align="center">
-<h4> No final, eu acredito que tudo vai dar certo, ou talvez não... mas o importante é que a aventura continua. </h4>
-<img align="center" height="240" width="400" src="./imgs/suspicious.webp">
-</p> 
-
-</br>
 
 ### Olá, meu nome é Marcos Paulo.
 
 <p align="left">
 <a href="https://github.com/marcospaulopaiva">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulopaiva&layout=compact&langs_count=9&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaulopaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
@@ -50,8 +31,6 @@ adoro combinar meu amor pela programação com minha paixão por filmes de açã
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/>
 </div>
 
 #### Banco de dados
@@ -60,7 +39,6 @@ adoro combinar meu amor pela programação com minha paixão por filmes de açã
   <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 #### Plataformas de Nuvem
@@ -123,7 +101,7 @@ adoro combinar meu amor pela programação com minha paixão por filmes de açã
  
  
 </div>
--->
+
 <!--
 **marcospaulopaiva/marcospaulopaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
